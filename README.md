@@ -7,8 +7,6 @@ and I'm  currently a front end devoloper too</h3>
 <br/>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Flutter based augmented reality app]
-
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
